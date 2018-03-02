@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">shoppingmemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_new">CreateNew</string>
+    <string name="tax">TAX(8%)</string>
+    <string name="product">ProductName</string>
+    <string name="price">Price</string>
+    <string name="add_list">add</string>
+</resources>
